@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Osman
 
-I'm a Software Developer with over 7 years of experience in creating efficient, secure, and scalable solutions across finance, blockchain, and gaming. My expertise spans backend development, cloud infrastructure, and blockchain security, with a focus on Java and Python.
-
+Since childhood, I’ve been captivated by the world of software, and for the past 7 years, I’ve been dedicated to it professionally as a Software Developer. With a focus on building efficient, secure, and scalable solutions, I’ve developed expertise in backend performance optimization, cloud migration, and security. I’m passionate about tackling complex challenges to deliver impactful results. Equipped with a strong technical background in Java, Python, AWS, and Kubernetes, I’m always eager to learn and innovate in the evolving world of software development.
 ---
 
 ## 🛠️ Core Skills
