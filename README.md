@@ -9,7 +9,7 @@ Since childhood, I’ve been captivated by the world of software, and for the pa
 - **Frameworks**: Spring Boot, FastAPI, Node.js, Laravel, Lumen
 - **Cloud & DevOps**: AWS, Kubernetes, Docker, CI/CD
 - **Blockchain & Security**: Smart Contracts, KMS, Cloud HSM
-- **Databases**: PostgreSQL, Redis, MongoDB
+- **Databases**: PostgreSQL, Redis, MongoDB, MySQL, MariaDB, MsSQL
 
 ---
 
