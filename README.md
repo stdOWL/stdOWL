@@ -5,8 +5,8 @@ I'm a Software Developer with over 7 years of experience in creating efficient, 
 ---
 
 ## 🛠️ Core Skills
-- **Languages**: Java, Python, C++
-- **Frameworks**: Spring Boot, FastAPI, Node.js
+- **Languages**: Java, Python, C++, PHP
+- **Frameworks**: Spring Boot, FastAPI, Node.js, Laravel, Lumen
 - **Cloud & DevOps**: AWS, Kubernetes, Docker, CI/CD
 - **Blockchain & Security**: Smart Contracts, KMS, Cloud HSM
 - **Databases**: PostgreSQL, Redis, MongoDB
